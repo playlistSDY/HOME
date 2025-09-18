@@ -23,7 +23,11 @@ const developer = {
 ---
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Programming Languages
+
+</div>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,7 +36,11 @@ const developer = {
 
 </div>
 
+<div align="center">
+
 ### 🚀 Backend Frameworks
+
+</div>
 <div align="center">
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -40,7 +48,11 @@ const developer = {
 
 </div>
 
+<div align="center">
+
 ### 🔧 Hardware & IoT
+
+</div>
 <div align="center">
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -48,7 +60,11 @@ const developer = {
 
 </div>
 
+<div align="center">
+
 ### 💻 Operating Systems
+
+</div>
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -57,7 +73,11 @@ const developer = {
 
 </div>
 
+<div align="center">
+
 ### 🛠️ Development Tools
+
+</div>
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -66,6 +86,7 @@ const developer = {
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 </div>
+
 ---
 
 <div align="center">
